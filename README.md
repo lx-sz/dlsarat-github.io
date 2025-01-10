@@ -1,0 +1,1 @@
+https://gitkraken.dev/connect?source=gitlens&context=launchpad&provider=github,gitlab&redirect_uri=https%3A%2F%2Fscaling-giggle-g47pjx6rp6x537wj.github.dev%2Fextension-auth-callback%3Fstate%3De7d882179a65e72e66399fbc08141b23
